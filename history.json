@@ -1,0 +1,18 @@
+[
+    {
+        "from": "USD",
+        "to": "EUR",
+        "amount": 542.0,
+        "rate": 0.85876,
+        "converted": 465.44792,
+        "rate_date": "2026-09-10"
+    },
+    {
+        "from": "USD",
+        "to": "CAD",
+        "amount": 50.2,
+        "rate": 1.3789,
+        "converted": 69.22078,
+        "rate_date": "2026-09-10"
+    }
+]
